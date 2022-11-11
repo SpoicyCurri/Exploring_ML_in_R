@@ -1,0 +1,10 @@
+---
+title: "Exploring ML in R"
+output: html_notebook
+---
+
+This notebook is for the exploration of using ML in R as preparation for the HO Mentoring scheme.
+
+```{r}
+plot(cars)
+```
